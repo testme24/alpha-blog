@@ -1,1 +1,1 @@
-This is the respository for the first alpha-blog app of the complete ruby on rails course
+Changed
